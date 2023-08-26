@@ -1,3 +1,3 @@
---Link Vercel: https://fit-club-teal.vercel.app/
+--Link Vercel: https://fitclub-eight.vercel.app/
 
 #Start command: - yarn start 
