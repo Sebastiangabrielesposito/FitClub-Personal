@@ -82,7 +82,9 @@ font-weight: bold;
     cursor: pointer;
     border-radius: 5px;
 }
-   
+.plan .btn-plan:nth-child(2) {
+    color: orange;
+}    
 .btn-plan:hover{
     background-color: #fff;
     color: var(--orange);
